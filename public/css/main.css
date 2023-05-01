@@ -79,6 +79,14 @@ form {
   text-align: center;
 }
 
+.image{
+  height: 20rem;
+}
+
+.image img{
+  height: 100%;
+}
+
 .mobile-nav__item-list {
   list-style: none;
   display: flex;
